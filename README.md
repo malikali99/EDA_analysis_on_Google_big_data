@@ -3,6 +3,8 @@
   <img src="./googel.gif" alt="My Image">
 </div>
 
+Note: The file which contain the data like Google_playstore.csv is not uploaded just because the size of the file is too large(660 MB).
+
 **`Author Name:`** Malik Hasnain Ali\
 **`Email ID:`** 512yaali@gmai.com\
 **`Linkedin profile:`** [hasnainali99](https://www.linkedin.com/in/hasnainali99/)
